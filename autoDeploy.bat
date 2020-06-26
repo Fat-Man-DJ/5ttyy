@@ -1,3 +1,3 @@
 git add *
-git commit -m "creat a blog"
+git commit -m "theme"
 git push -f
