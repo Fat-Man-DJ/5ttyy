@@ -27,7 +27,7 @@ custom_file_path:
   #sidebar: source/_data/sidebar.swig
   #postMeta: source/_data/post-meta.swig
   #postBodyEnd: source/_data/post-body-end.swig
-  #footer: source/_data/footer.swig
+  footer: source/_data/footer.swig
   #bodyEnd: source/_data/body-end.swig
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
@@ -732,7 +732,7 @@ busuanzi_count:
 # Algolia Search
 # For more information: https://www.algolia.com
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
