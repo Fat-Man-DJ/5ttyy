@@ -27,5 +27,5 @@ date: 2010-02-08
 # 2020/6/27
 移除评论系统,增加bilibili,mainpress页,更改菜单顺序
 
-# 2020/6/27 Midnight Update
+# 2020/6/30
 通过css设置透明,背景图

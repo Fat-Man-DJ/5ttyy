@@ -732,13 +732,13 @@ busuanzi_count:
 # Algolia Search
 # For more information: https://www.algolia.com
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
     input_placeholder: Search for Posts
-    hits_empty: "We didn't find any results for the search: ${query}"
-    hits_stats: "${hits} results found in ${time} ms"
+    hits_empty: "没有结果QWQ"
+    hits_stats: "${hits} 在 ${time} ms 被找到,捉迷藏结束QAQ"
 
 # Local Search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
@@ -957,7 +957,7 @@ vendors:
   # Algolia Search
   # algolia_search: //cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js
   # instant_search: //cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js
-  algolia_search:
+  algolia_search: b3ffc32ee367ff5c813f01cc84db6e48
   instant_search:
 
   # Mermaid
