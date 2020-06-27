@@ -76,7 +76,7 @@ pagination_dir: page
 theme: hexo-theme-next
 
 search:
-  path: search.xml
+  path: public/search.xml
   field: post
   format: html
   limit: 10000
