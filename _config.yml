@@ -78,7 +78,7 @@ theme: hexo-theme-next
 search:
   path: source/search.xml
   field: post
-  format: html
+  format: xml
   limit: 10000
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
