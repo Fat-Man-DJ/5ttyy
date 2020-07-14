@@ -9,6 +9,7 @@ date: 2020/6/26
 
 由于python大行其道,很多人都想学习他,接下来,就让我们开始吧!
 
+<!--more-->
 # 1.安装
 
 python下载链接:[download.3.8](https://fatmandj.lanzous.com/ic4lv1e)

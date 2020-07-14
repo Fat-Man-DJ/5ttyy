@@ -7,6 +7,9 @@ tags:
 categories: python
 ---
 
+
+Python web笔记1
+<!--more-->
 废话不多说,代码!
 
 web.py:
