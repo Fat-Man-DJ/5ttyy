@@ -73,10 +73,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-fluid
+theme: hexo-theme-next
 
 search:
-  path: source/search.xml
+  path: search.xml
   field: post
   format: html
   limit: 10000
