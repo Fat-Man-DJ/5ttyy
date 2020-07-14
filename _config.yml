@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.fatdev.name
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -84,14 +84,3 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-algolia:
-  appId: 'VDBU6YLHT1'
-  apiKey: 'b3ffc32ee367ff5c813f01cc84db6e48'
-  adminApiKey: 'a5c6d200e695b657a021f1946a62fe1d'
-  indexName: 'dev_BLOG'
-  chunkSize: 5000
-  fields:
-  - title
-  - slug
-  - path
-  - content:strip

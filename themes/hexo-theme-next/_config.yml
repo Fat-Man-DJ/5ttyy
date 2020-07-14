@@ -204,7 +204,6 @@ links_settings:
 
 links:
   友情链接:XHG78999的博客: https://www.cnblogs.com/blog-xhg78999/
-  备用博客: https://fatmandj.rthe.xyz
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -743,7 +742,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: manual
