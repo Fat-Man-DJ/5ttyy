@@ -71,4 +71,20 @@ response = request.get("http://localhost:80/token")
 print(response.text)
 ```
 
-(介绍以后再做,睡觉去了)
+利用python做web的好处就是:
+
+可以直接返回python中的变量
+
+也就是说:
+
+### 你可以直接用pymysql,redis-py直接返回数据库中的数据
+
+所以好处就体现出来了~
+
+在第一个文件中,我们创建了一个flask程序,指定了/token地址返回激活码
+
+在第二个文件,我们生成了随机的token
+
+在crawl.py中来爬取网页数据
+
+end~~
