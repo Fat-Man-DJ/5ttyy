@@ -98,7 +98,7 @@ creative_commons:
 
 # Schemes
 #scheme: Muse
-scheme: Gemini
+scheme: Misc
 #scheme: Gemini
 
 # Dark Mode
@@ -120,8 +120,7 @@ menu:
   tags: /tags/
   categories: /categories/
   日记: /pozhanriji/
-  Mainpress展示 : /Mainpress/
-  B站: /bilibili_videos/
+  友链: /friends/
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
