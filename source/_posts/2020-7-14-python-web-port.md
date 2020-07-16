@@ -8,7 +8,10 @@ categories: python
 ---
 
 
-Python web笔记1
+```bash
+blog with love
+```
+
 <!--more-->
 废话不多说,代码!
 
