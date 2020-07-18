@@ -1,8 +1,9 @@
 ---
-title: 云端写作
-date： 2020/7/1
-tags: 
-    - 乱七八糟的东西
+title: Flask+Request实现web接口
+date: 2020/7/14
+tags:
+  - Web
+categories: test
 ---
 
 
