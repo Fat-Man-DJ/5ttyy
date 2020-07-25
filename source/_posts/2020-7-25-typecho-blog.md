@@ -58,4 +58,4 @@ tags:
 
 就完成了前半段
 
-此博客在我的typecho博客里同步发布，链接[使用免费主机搭建Typecho博客(上)](http://fatmandj.mmkfc.com/index.php/archives/4/)
+此博客在我的typecho博客里同步发布，链接：[使用免费主机搭建Typecho博客(上)](http://fatmandj.mmkfc.com/index.php/archives/4/)
