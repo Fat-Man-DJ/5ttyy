@@ -1,5 +1,5 @@
 ---
-title: 使用免费主机搭建Typecho博客
+title: 使用免费主机搭建Typecho博客(上)
 date: 2020/7/25
 categories:
     - free stuff
@@ -9,8 +9,9 @@ tags:
     - 教程
 ---
 
+![](https://www.helloimg.com/images/2020/07/25/image550df1437cf3eecf.png)
+
 <!-- more -->
-用惯了hexo，想尝试一下typecho，那就让我们开始吧！
 
 # 1.主机
 找到了一个免费的，[mmkfc](http://mmkfc.com)
@@ -41,4 +42,20 @@ tags:
 
 [![image7a648d9ac6608ab6.png](https://www.helloimg.com/images/2020/07/25/image7a648d9ac6608ab6.png)](https://www.helloimg.com/image/Xq5vt)
 
-{ to be continued }
+接着选 i forgot the password
+
+让后他会把修改的密码给你
+
+接着登录
+
+把typecho下下来
+
+![](https://www.helloimg.com/images/2020/07/25/imagef4591e895cbe6f39.png)
+
+[Typecho](https://typecho.org)
+
+解压到你想要的位置
+
+就完成了前半段
+
+此博客在我的typecho博客里同步发布，链接[使用免费主机搭建Typecho博客(上)](http://fatmandj.mmkfc.com/index.php/archives/4/)
