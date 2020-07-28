@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: FatManDJ's Home
-subtitle: 当上帝关了一扇门,封上窗,也会给你通往成功的下水道
-description: 一个小学生,热爱编程
+title: FatManDJ's Blog
+subtitle: 追寻美好之物。
+description: print("Hello world")
 keywords:
 author: FatManDJ
 language: zh-CN
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.fatdev.name
+url:
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
